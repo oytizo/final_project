@@ -1,0 +1,43 @@
+.navbar form-inline {
+    background-color: saddlebrown;
+}
+
+.man li a:hover {
+    display: block;
+    color: green;
+    text-decoration: underline;
+    transform: scale(1.1);
+} 
+.show img:hover {
+    transform: scale(1.1);
+}
+.small-container h3 {
+    text-align:center; 
+    color:orange;
+}
+
+.small-container {
+	max-width: 1080px;
+	margin: auto;
+	padding-left: 25px;
+	padding-right: 25px; 
+
+
+}
+
+.col-4 {
+	flex-basis:25%;
+	padding: 10px;
+	min-width: 200px;
+	margin-bottom: 50px;
+}
+
+.col-4 img {
+	width: 100%;
+}
+
+
+
+
+
+
